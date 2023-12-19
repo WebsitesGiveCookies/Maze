@@ -10,3 +10,4 @@ grid = mazepy.getRandomMaze(grid)
 file = open("./maze.txt", "w")
 file.write("Madalina \n" + (str(grid)))
 file.close()
+#edit with git
